@@ -1,9 +1,9 @@
 body {
     background-image: url(https://hrconnectum.com/wp-content/uploads/2019/01/shutterstock_746652751-1024x683.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 76%;
-    background-color: rgb(104, 89, 89);
-    padding-top: 15%;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20%;
     padding-left: 5%;
     }
     
@@ -44,8 +44,8 @@ body {
     
     .Redes {
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 17px;
-    color: rgb(17, 139, 78);
+    font-size: 20px;
+    color: rgb(231, 238, 236);
     text-shadow: 1px 1px 1px black;
     }
     
@@ -66,14 +66,16 @@ body {
     }
     
    textarea {
-    background-color: rgb(97, 98, 133);
+    background-color: rgb(224, 225, 248);
     border: 1px solid black;
     }
     
     
       a {
-        color: rgb(48, 35, 228);
+        color: rgb(32, 214, 102);
         letter-spacing: 1px;
+        font-size: 20px;
+        
       }
     
       #boton {
