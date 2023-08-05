@@ -65,14 +65,11 @@ body {
     
     }
     
-    #Cuerpo {
+   textarea {
     background-color: rgb(170, 164, 155);
-    
+    border: 1px solid black;
     }
     
-    textarea {
-        border: 1px solid black;
-      }
     
       a {
         color: rgb(48, 35, 228);
