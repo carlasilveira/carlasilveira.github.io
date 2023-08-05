@@ -1,0 +1,84 @@
+body {
+    background-image: url(Programación.jpg);
+    background-repeat: no-repeat;
+    background-color: gray;
+    padding-top: 20%;
+    padding-left: 10%;
+    padding-top: 11%;
+    }
+    
+    
+    h1 { font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        letter-spacing: 2px; 
+        color: white;
+        text-align: left;
+        font-size: 50px;
+        text-shadow: 1px 1px 7px black;
+    
+     }
+    
+    h2.trabajo {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        letter-spacing: 2px; 
+        color: white;
+        text-align: left;
+        font-size: 40px;
+        text-shadow: 1px 1px 7px black;
+    }
+    
+    p.acceso-formulario {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        color: rgb(158, 117, 42);
+        font-size: 28px;
+        padding-top: 15%;
+    }
+    
+    p.acceso-formulario span {
+        font-size: 22px;
+    }
+    
+    #Redes-Sociales {
+    margin: 18% 10% 10% 0;
+    width: 80%;
+    }
+    
+    .Redes {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(17, 139, 78);
+    text-shadow: 1px 1px 1px black;
+    }
+    
+    span.nombre {
+    color: rgb(30, 163, 130);
+    
+    }
+    
+    div.Formulario-Contacto {
+        text-align: center;
+    
+    }
+    
+    #Contacto {
+    color: black;
+    font-size:xx-large;
+    
+    }
+    
+    #Cuerpo {
+    background-color: rgb(170, 164, 155);
+    
+    }
+    
+    textarea {
+        border: 1px solid black;
+      }
+    
+      a {
+        color: rgb(48, 35, 228);
+        letter-spacing: 1px;
+      }
+    
+      button {
+        border-color: beige;
+      }
